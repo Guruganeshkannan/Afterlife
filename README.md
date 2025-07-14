@@ -15,7 +15,6 @@ A secure and innovative platform for creating and delivering personalized messag
 - Backend: Python (FastAPI)
 - Frontend: React (Web) & React Native (Mobile)
 - Database: PostgreSQL
-- Storage: AWS S3
 - AI: OpenAI GPT
 - Authentication: JWT
 - Encryption: AES-256
@@ -60,7 +59,6 @@ A secure and innovative platform for creating and delivering personalized messag
 ## Security Features
 
 - End-to-end encryption for all messages
-- Secure cloud storage with AWS S3
 - JWT-based authentication
 - Regular security audits
 - GDPR compliance
